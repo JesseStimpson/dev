@@ -1,5 +1,5 @@
 #!/bin/bash
-readonly TGT=/tmp/home-test
+readonly TGT=/home/jstimpson
 readonly DIRS=".config .tmuxp bin .ssh"
 
 install_dir() {
